@@ -1,3 +1,7 @@
+ 
+ import React from "react"
+ import ReactDOM from "react-dom/client"
+ 
  //How to create HTML element using react ( By using React library and inbuilt method)
 
   const heading = React.createElement("h1",

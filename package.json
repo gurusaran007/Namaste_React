@@ -1,0 +1,42 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "React project develop by guru",
+  "scripts": {
+    "test": "jtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurusaran007/Namaste_React.git"
+  },
+  "keywords": [
+    "React",
+    "Namste-react",
+    "Gurusaran"
+  ],
+  "author": "Gurusaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurusaran007/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/gurusaran007/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist" : [
+    "last 2 versions",
+    "not dead"
+  ]
+  
+
+  
+
+
+
+}
+  
+
