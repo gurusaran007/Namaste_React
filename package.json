@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "React project develop by guru",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jtest"
   },
   "repository": {
@@ -25,18 +27,11 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0"
   },
-  "browserslist" : [
+  "browserslist": [
     "last 2 versions",
     "not dead"
   ]
-  
-
-  
-
-
-
 }
-  
-
