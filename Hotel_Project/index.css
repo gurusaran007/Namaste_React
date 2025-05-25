@@ -1,0 +1,40 @@
+ 
+ .container{
+   background-color: bisque;
+ }
+ 
+ .unOrder{
+    display:flex;
+    list-style-type: none;
+    padding:1em;
+   
+ }
+
+ .list2{
+    margin-left:25em;
+ }
+
+ .list3{
+    margin-left:25em;
+ } 
+
+ .search-container {
+  position: relative;
+  display: inline-block;
+}
+
+.searchBox {
+  padding-left: 30px; /* space for icon */
+  height: 3em;
+  width:30em;
+  font-size: 16px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 95%;
+  top:50%;
+  transform: translateY(-50%);
+  color:black;
+  pointer-events: none; /* allow typing through icon */
+}
